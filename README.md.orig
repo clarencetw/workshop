@@ -1,7 +1,11 @@
-<<<<<<< HEAD
 # H1
+## H2
+
+<<<<<<< HEAD
+*Master Add Line*
+=======
+**Add branch Dev**
+>>>>>>> dev
 =======
 # Head 1
 
-
->>>>>>> 6c68fcb16c8714857a669f47c034b7fa7fe4fc43
